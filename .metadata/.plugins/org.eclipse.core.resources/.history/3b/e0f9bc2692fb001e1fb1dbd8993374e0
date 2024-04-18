@@ -1,0 +1,7 @@
+package com.ThreeEntity.Interface;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.ThreeEntity.model.Doctor; 
+public interface PatientInterface extends JpaRepository<Doctor, Long> {
+}

@@ -1,0 +1,5 @@
+package com.Club.repository;
+
+public interface ClubInterface {
+
+}

@@ -1,0 +1,5 @@
+package com.ThreeEntity.Interface;
+
+public interface AppointmentInterface {
+
+}

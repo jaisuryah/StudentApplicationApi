@@ -1,0 +1,5 @@
+package com.ThreeEntityInterface;
+
+public interface DoctorRepository {
+
+}

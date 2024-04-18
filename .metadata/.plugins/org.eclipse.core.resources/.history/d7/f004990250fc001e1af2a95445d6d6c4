@@ -1,0 +1,5 @@
+package com.Doctor.model;
+
+public class Doctor {
+
+}

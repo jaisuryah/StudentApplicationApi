@@ -1,0 +1,5 @@
+package com.sample_crud1.repository;
+
+public interface userDetailInterface {
+
+}

@@ -1,0 +1,5 @@
+package com.ThreeEntity.model;
+
+public class Patient {
+
+}

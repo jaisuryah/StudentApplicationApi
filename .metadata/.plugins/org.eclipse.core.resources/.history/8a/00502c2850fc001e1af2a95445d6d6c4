@@ -1,0 +1,5 @@
+package com.Doctor.repository;
+
+public interface PatientInterface {
+
+}
